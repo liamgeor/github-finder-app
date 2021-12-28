@@ -6,9 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <div className="body h-screen">
       <App />
-    </div>
     
   </React.StrictMode>,
   document.getElementById('root')
